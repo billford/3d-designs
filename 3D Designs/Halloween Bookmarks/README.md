@@ -2,6 +2,8 @@
 
 ![Halloween Bookmarks](images/both_print_1.jpg)
 
+**Also on MakerWorld:** [Halloween Bookmarks](https://makerworld.com/en/models/3403477-halloween-bookmarks-dracula-and-poe)
+
 Two flat, three-colour bookmarks with a gothic-arch top and a tassel hole:
 
 - **Dracula** glares over a book called *DENTISTRY*, gripping it with clawed

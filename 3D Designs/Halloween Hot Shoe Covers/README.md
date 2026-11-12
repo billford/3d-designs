@@ -2,6 +2,8 @@
 
 ![Halloween Hot Shoe Covers](images/alien.png)
 
+**Also on MakerWorld:** [Alien Hot Shoe Cover](https://makerworld.com/en/models/3403737-alien-hot-shoe-cover) · [Robot Hot Shoe Cover](https://makerworld.com/en/models/3403886-robot-hot-shoe-cover)
+
 Two characters that slide into your camera's hot shoe: an **alien** and a
 **robot**. Each comes in one colour or two. There are also display busts at 4.6x scale, for photographing
 next to the real thing.
